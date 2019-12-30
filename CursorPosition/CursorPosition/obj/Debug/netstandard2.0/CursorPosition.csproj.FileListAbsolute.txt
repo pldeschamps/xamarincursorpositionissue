@@ -1,0 +1,13 @@
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\obj\Debug\netstandard2.0\CursorPosition.csprojAssemblyReference.cache
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\obj\Debug\netstandard2.0\CursorPosition.AssemblyInfoInputs.cache
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\obj\Debug\netstandard2.0\CursorPosition.AssemblyInfo.cs
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\obj\Debug\netstandard2.0\CursorPosition.dll
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\obj\Debug\netstandard2.0\ref\CursorPosition.dll
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\obj\Debug\netstandard2.0\CursorPosition.pdb
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\bin\Debug\netstandard2.0\CursorPosition.deps.json
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\bin\Debug\netstandard2.0\CursorPosition.dll
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\bin\Debug\netstandard2.0\ref\CursorPosition.dll
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\bin\Debug\netstandard2.0\CursorPosition.pdb
+C:\Users\pierre-louis\source\repos\CursorPosition\CursorPosition\CursorPosition\obj\Debug\netstandard2.0\XamlC.stamp
