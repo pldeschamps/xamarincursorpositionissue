@@ -7,7 +7,11 @@
              mc:Ignorable="d"
              x:Class="CursorPosition.MainPage">
 
-    <StackLayout>
+    <StackLayout Orientation="Vertical"
+        HorizontalOptions="Start"
+                         VerticalOptions="Start">
+        <CheckBox x:Name="checkBoxNames"
+                          IsChecked="False" ></CheckBox>
         <Entry x:Name="EntryAltitude"  >
             <Entry.Behaviors>
                 <behaviors:AltitudeEntryBehavior BCursorPosition="{Binding Source ={x:Reference EntryAltitude},
